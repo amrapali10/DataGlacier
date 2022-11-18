@@ -92,7 +92,7 @@ Link :
 Link :
 
 ![image](https://user-images.githubusercontent.com/48585778/202190626-7019104f-70e1-4224-98b7-1faec4785d62.png)
-## Week 12 (11 December - 23 December)
+## Week 12 (17 December - 23 December)
 ![image](https://user-images.githubusercontent.com/48585778/202190960-dcc833c6-ffcc-449e-9f49-22e36fb181ac.png)
 ### Project : EDA Presentation and proposed modeling technique
 
