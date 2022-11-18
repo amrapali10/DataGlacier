@@ -61,7 +61,7 @@ Link: https://github.com/amrapali10/DataGlacier/tree/main/Week6
 ### Project : Deliverable
 In this week, Data Collection, Data intake report, Upload the Dataset, Problem Statement
 
-Link : 
+Link : https://github.com/amrapali10/DataGlacier/tree/main/Week7
 
 ![image](https://user-images.githubusercontent.com/48585778/202190626-7019104f-70e1-4224-98b7-1faec4785d62.png)
 ## Week 8 (20 November - 26 November)
