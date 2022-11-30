@@ -68,14 +68,14 @@ Link : https://github.com/amrapali10/DataGlacier/tree/main/Week7
 ![image](https://user-images.githubusercontent.com/48585778/202190960-dcc833c6-ffcc-449e-9f49-22e36fb181ac.png)
 ### Project : Deliverable
 
-Link :
+Link :https://github.com/amrapali10/DataGlacier/tree/main/Week8
 
 ![image](https://user-images.githubusercontent.com/48585778/202190626-7019104f-70e1-4224-98b7-1faec4785d62.png)
 ## Week 9 (27 November - 2 December)
 ![image](https://user-images.githubusercontent.com/48585778/202190960-dcc833c6-ffcc-449e-9f49-22e36fb181ac.png)
 ### Project : Deliverable
 
-Link :
+Link : https://github.com/amrapali10/DataGlacier/tree/main/Week9
 
 ![image](https://user-images.githubusercontent.com/48585778/202190626-7019104f-70e1-4224-98b7-1faec4785d62.png)
 ## Week 10 (3 December - 9 December)
