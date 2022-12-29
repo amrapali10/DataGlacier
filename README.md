@@ -96,7 +96,7 @@ Link : https://github.com/amrapali10/DataGlacier/tree/main/Week11
 ![image](https://user-images.githubusercontent.com/48585778/202190960-dcc833c6-ffcc-449e-9f49-22e36fb181ac.png)
 ### Project : EDA Presentation and proposed modeling technique
 
-Link :
+Link : https://github.com/amrapali10/DataGlacier/tree/main/Week12
 
 ![image](https://user-images.githubusercontent.com/48585778/202190626-7019104f-70e1-4224-98b7-1faec4785d62.png)
 ## Week 13 (24 December - 30 December)
